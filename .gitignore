@@ -1,0 +1,14 @@
+# ScientistTwo run artifacts (created by scripts/new_run.py)
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
